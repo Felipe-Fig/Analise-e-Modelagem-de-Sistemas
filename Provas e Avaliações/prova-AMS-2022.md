@@ -1,5 +1,5 @@
 # Prova Análise e Modelagem de Sistemas
-## Ainda não corrigida 
+## Ainda não corrigida, fiz 12 de 16.
 
 ### Questão 1
 
@@ -315,6 +315,6 @@ perspectivas e geralmente por itens e relacionamentos.
 AN
 Estão corretos os itens:
 
-**Gabarito: I, **
+**Gabarito: I, III e IV**
 
 ---
